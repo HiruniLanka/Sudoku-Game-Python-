@@ -11,5 +11,5 @@ Features:
 
 ## How to Run
 ```bash
-cd sudoku-python
-python run.py
+
+py run.py
