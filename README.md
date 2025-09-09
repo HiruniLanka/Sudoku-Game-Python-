@@ -1,3 +1,6 @@
+![Sudoku Screenshot](assets/image.png)
+
+
 # Sudoku Game (Python)
 
 A simple Sudoku game built with Python and Tkinter.  
