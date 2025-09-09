@@ -1,3 +1,6 @@
 # Marks sudoku as a package
-from .solver import SudokuSolver
-from .generator import SudokuGenerator
+from .core import SudokuBoard
+from .solver import solve
+from .generator import generate_puzzle
+
+__all__ = ["SudokuBoard", "solve", "generate_puzzle"]

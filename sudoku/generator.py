@@ -2,6 +2,8 @@ import random
 from sudoku.core import SudokuBoard
 from sudoku.solver import solve
 
+
+
 def generate_puzzle(empty_cells=40):
     """Generate Sudoku puzzle by solving a board and removing cells"""
     board = SudokuBoard()
